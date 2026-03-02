@@ -1,2 +1,2 @@
-# Development AI Agent for Web Deep Search on calls and proposals
+# SEarch for International calls for proposals using GENerative Artificial intelligence (SEI-GENA)
 
